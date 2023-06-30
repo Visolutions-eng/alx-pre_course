@@ -1,0 +1,5 @@
+to fetch all changes: 
+git fetch origin
+
+to pull changes:
+git pull origin updated_branch 
